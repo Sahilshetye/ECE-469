@@ -1,0 +1,6 @@
+c:\users\anujshetye\documents\visual studio 2015\Projects\Finalrelation\Finalrelation\bin\Debug\Finalrelation.exe.config
+c:\users\anujshetye\documents\visual studio 2015\Projects\Finalrelation\Finalrelation\bin\Debug\Finalrelation.exe
+c:\users\anujshetye\documents\visual studio 2015\Projects\Finalrelation\Finalrelation\bin\Debug\Finalrelation.pdb
+c:\users\anujshetye\documents\visual studio 2015\Projects\Finalrelation\Finalrelation\obj\Debug\Finalrelation.csprojResolveAssemblyReference.cache
+c:\users\anujshetye\documents\visual studio 2015\Projects\Finalrelation\Finalrelation\obj\Debug\Finalrelation.exe
+c:\users\anujshetye\documents\visual studio 2015\Projects\Finalrelation\Finalrelation\obj\Debug\Finalrelation.pdb

@@ -1,0 +1,5 @@
+c:\users\anujshetye\documents\visual studio 2015\Projects\final sequencer\final sequencer\bin\Debug\final sequencer.exe.config
+c:\users\anujshetye\documents\visual studio 2015\Projects\final sequencer\final sequencer\bin\Debug\final sequencer.exe
+c:\users\anujshetye\documents\visual studio 2015\Projects\final sequencer\final sequencer\bin\Debug\final sequencer.pdb
+c:\users\anujshetye\documents\visual studio 2015\Projects\final sequencer\final sequencer\obj\Debug\final sequencer.exe
+c:\users\anujshetye\documents\visual studio 2015\Projects\final sequencer\final sequencer\obj\Debug\final sequencer.pdb

@@ -1,0 +1,6 @@
+c:\users\anujshetye\documents\visual studio 2015\Projects\Pattern maker\Pattern maker\bin\Debug\Pattern maker.exe.config
+c:\users\anujshetye\documents\visual studio 2015\Projects\Pattern maker\Pattern maker\bin\Debug\Pattern maker.exe
+c:\users\anujshetye\documents\visual studio 2015\Projects\Pattern maker\Pattern maker\bin\Debug\Pattern maker.pdb
+c:\users\anujshetye\documents\visual studio 2015\Projects\Pattern maker\Pattern maker\obj\Debug\Pattern maker.csprojResolveAssemblyReference.cache
+c:\users\anujshetye\documents\visual studio 2015\Projects\Pattern maker\Pattern maker\obj\Debug\Pattern maker.exe
+c:\users\anujshetye\documents\visual studio 2015\Projects\Pattern maker\Pattern maker\obj\Debug\Pattern maker.pdb

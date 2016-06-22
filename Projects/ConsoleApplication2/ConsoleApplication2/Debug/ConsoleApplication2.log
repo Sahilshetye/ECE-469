@@ -1,0 +1,30 @@
+﻿  ConsoleApplication2.cpp
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(119): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(120): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(121): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(122): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(123): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(124): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(125): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(126): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(127): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(128): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(129): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(130): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(131): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(132): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(133): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(134): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(135): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(136): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(137): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(138): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(139): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(140): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(141): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(142): error C3861: 'strcmp': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(320): error C3861: 'exit': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(324): error C3861: 'exit': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\read_cct.c(328): error C3861: 'exit': identifier not found
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(14): error C2065: 'str': undeclared identifier
+c:\users\anujshetye\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(14): error C2143: syntax error: missing ';' before '}'

@@ -1,0 +1,5 @@
+c:\users\anujshetye\documents\visual studio 2015\Projects\inputsequencer2\inputsequencer2\bin\Debug\inputsequencer2.exe.config
+c:\users\anujshetye\documents\visual studio 2015\Projects\inputsequencer2\inputsequencer2\bin\Debug\inputsequencer2.exe
+c:\users\anujshetye\documents\visual studio 2015\Projects\inputsequencer2\inputsequencer2\bin\Debug\inputsequencer2.pdb
+c:\users\anujshetye\documents\visual studio 2015\Projects\inputsequencer2\inputsequencer2\obj\Debug\inputsequencer2.exe
+c:\users\anujshetye\documents\visual studio 2015\Projects\inputsequencer2\inputsequencer2\obj\Debug\inputsequencer2.pdb
